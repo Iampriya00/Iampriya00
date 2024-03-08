@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Priya Chakraborty</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate FRONT-END developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🌱 I’m currently learning **React Js , Node Js, Mongo DB**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **FRONT-END DEVEOPMENT**
 
 - 📫 How to reach me **priyachakrab01411@gmail.com**
 
